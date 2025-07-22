@@ -1,0 +1,26 @@
+div{
+    padding: 20px;
+    /* margin: 50px; */
+}
+
+.photo{
+    background-color: #0c0e0e;
+    margin: 50px;
+    display: flex;
+    align-items: center;
+    padding: 60px;
+}
+
+.content h1{
+    color: rgb(230, 79, 53);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 45px;
+}
+
+.content p{
+    color: #c2b5b5;
+    font-size: 30px;
+    font-style: italic;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
